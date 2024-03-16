@@ -13,3 +13,11 @@ How to Use:
 2. Explore Dashboards: Navigate through folders to discover a wide range of Excel dashboards covering various topics and datasets.
 3. Open with Excel: Interact with visualizations and analyze data by opening desired dashboard files (.xlsx) using Microsoft Excel.
 4. Customize and Analyze: Utilize Excel's functionalities to customize dashboards and derive actionable insights from your data.
+
+Contribution Guidelines: Contributions to enhance existing dashboards or create new ones are welcomed!
+
+Feedback and Support: Have questions, suggestions or feedback? Feel free to open an issue or reach out via https://www.linkedin.com/in/deepak-devangan-864689222/. Your feedback is crucial in improving the quality and usability of our Excel dashboards.
+
+Credits: Acknowledgments to contributors, data sources and any other relevant entities.
+
+Unlock the power of your data with our user-friendly Excel dashboards today!
